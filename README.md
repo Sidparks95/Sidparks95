@@ -7,10 +7,9 @@
   - osTicket: Configuration
   - osTicket: Testing Ticket System
 - <b>Microsoft Azure</b>
-  -Active Directory Configuration within Azure VMs
-  -Network Security Groups (NSGs) and Inspecting Network Protocols
-- <b>Active Directory</b>
-  -
+  - Configuring On-premisses Active Directory within Azure VMs
+  - Network Security Groups (NSGs) and Inspecting Network Protocols
+  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="sidney-parker-054250a8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
